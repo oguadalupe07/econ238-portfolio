@@ -9,7 +9,7 @@ The Genesee River runs through Rochester, but some of the pollution affecting it
 
 So...what if Rochester households paid farmers to stop cultivating selected strips of riverside land and replace them with vegetation that helps prevent pollution? Would you take that deal?
 
-**This is a hypothetical ballot initiative created for an environmental economics course, not an actual REAL and active City of Rochester ballot measure.**
+**This is a hypothetical ballot initiative created for an environmental economics course, not an ACTUAL and active City of Rochester ballot measure.**
 
 ###  Cast Your Vote
 
