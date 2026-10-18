@@ -1,8 +1,4 @@
 
----
-Genesee River Agricultural Conservation Partnership Initiative
----
-
 #  Should We Pay Farmers to Stop Farming?
 
 ### A proposed environmental bargain for the Genesee River
