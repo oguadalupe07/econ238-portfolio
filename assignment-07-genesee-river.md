@@ -7,7 +7,7 @@ Genesee River Agricultural Conservation Partnership Initiative
 
 ### A proposed environmental bargain for the Genesee River
 
-*ECON 238 - Environmental Economics | Fall 2026*
+*ECON 238 - Environmental Economics - Fall 2026*
 
 The Genesee River runs through Rochester, but some of the pollution affecting it originates on farmland farther upstream.
 
