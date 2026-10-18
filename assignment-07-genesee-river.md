@@ -43,7 +43,7 @@ I think the best outcome would be a cleaner Genesee River without having to forc
 
 ## Best Case for NO
 
-My biggest problem with this proposal is that we're asking Rochester residents to spend almost $1.68 million without knowing exactly what they'll get in return. Yes, planting trees and vegetation along rivers can reduce agricultural runoff. But does that mean the Genesee River will actually become noticeably cleaner? Not necessarily. It depends on where the buffers go, how much pollution they're stopping, and whether farmers even want to participate. There's also something a little strange about asking people in Rochester to pay farmers outside the city to stop using parts of their own land. Especially when programs that already pay farmers for conservation exist. Maybe that money could do more somewhere else. I care about the Genesee River, but caring about something doesn't automatically mean every proposed solution is worth paying for.
+My biggest problem is that we're asking Rochester residents to spend almost $1.68 million without knowing exactly what they'll get in return. Yes, planting trees and vegetation along rivers can reduce agricultural runoff. But does that mean the Genesee River will actually become noticeably cleaner? Not necessarily. It depends on where the buffers go, how much pollution they're stopping, and whether farmers even want to participate. There's also something a little strange about asking people in Rochester to pay farmers outside the city to stop using parts of their own land. Especially when programs that already pay farmers for conservation exist. Maybe that money could do more somewhere else. I care about the Genesee River, but caring about something doesn't automatically mean every proposed solution is worth paying for.
 
 ## Where Is the Body Buried?
 
@@ -68,12 +68,10 @@ I think the main reason this isn't already happening is because the people givin
 | Minimum conservation agreement | 10 years |
 
 The gross revenue estimate assumes approximately 93,261 paying Rochester households for 36 months:
-
 **93,261 × $0.50 × 36 = $1,678,698**
 
 I don't want the program to focus on protecting a certain number of acres just for the sake of reaching that number. I'd rather have the money go toward places where it would actually prevent the most pollution. According to an older USDA payment schedule, planting certain types of forested buffers costs around $3,801 per acre. So if we protected 150 acres, that would be about $570,150 just to establish them. But what about the farmers giving up that land? If we paid them $150 per acre each year, that would be another $225,000 over ten years.
-
-Of course, these are estimates. I don't know how many farmers would actually agree to participate, or whether $150 would even be enough to convince them. Some areas could also cost more to restore or maintain than others. That's why I see 150 acres as a starting goal, not a promise. The actual amount protected would depend on what we could afford and where the money would make the biggest difference. Rochester would also need to set aside enough money to cover the full ten years before making any agreements with farmers.
+Of course, these are estimates. I don't know how many farmers would actually agree to participate, or whether $150 would even be enough to convince them. Some areas could also cost more to restore or maintain than others. And planting the buffers and compensating farmers aren't the only expenses. We'd still need money for maintenance, monitoring, administration, and anything unexpected. That's why I see 150 acres as a starting goal, not a promise. If the costs end up being higher than expected, we'd have to protect less land rather than spend money we don't have. Rochester would also need to set aside enough money to cover the full ten years before making any agreements with farmers.
 
 ---
 
