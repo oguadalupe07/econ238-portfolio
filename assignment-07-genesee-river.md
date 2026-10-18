@@ -8,7 +8,7 @@ title: "Genesee River Agricultural Conservation Partnership Initiative"
 
 ### A proposed environmental bargain for the Genesee River
 
-**ECON 238 — Environmental Economics | Fall 2026**
+**ECON 238 - Environmental Economics | Fall 2026**
 
 The Genesee River runs through Rochester, but some of the pollution affecting it originates on farmland farther upstream.
 
@@ -88,27 +88,27 @@ These estimates exclude uncertainty about actual site conditions, participation,
 
 ## Sources and Further Reading
 
-1. [New York State Department of Environmental Conservation — Genesee River Basin Nine Element Watershed Plan](https://extapps.dec.ny.gov/docs/water_pdf/geneseeninelement.pdf). Documents sediment and nutrient pollution concerns in the watershed.
+1. [New York State Department of Environmental Conservation - Genesee River Basin Nine Element Watershed Plan](https://extapps.dec.ny.gov/docs/water_pdf/geneseeninelement.pdf). Documents sediment and nutrient pollution concerns in the watershed.
 
-2. [USDA Natural Resources Conservation Service — Riparian Forest Buffers](https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/riparian-forest-buffer). Explains the environmental functions of vegetated streamside buffers.
+2. [USDA Natural Resources Conservation Service - Riparian Forest Buffers](https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/riparian-forest-buffer). Explains the environmental functions of vegetated streamside buffers.
 
-3. [USDA — Conservation Practice Overview: Riparian Forest Buffer (391)](https://www.nrcs.usda.gov/sites/default/files/2022-09/Riparian_Forest_Buffer_391_Overview_10_2020.pdf). Describes this established conservation practice.
+3. [USDA - Conservation Practice Overview: Riparian Forest Buffer (391)](https://www.nrcs.usda.gov/sites/default/files/2022-09/Riparian_Forest_Buffer_391_Overview_10_2020.pdf). Describes this established conservation practice.
 
-4. [USDA Farm Service Agency — Conservation Reserve Program](https://www.fsa.usda.gov/resources/conservation/conservation-reserve-program). Provides a precedent for voluntary, compensated conservation agreements.
+4. [USDA Farm Service Agency - Conservation Reserve Program](https://www.fsa.usda.gov/resources/conservation/conservation-reserve-program). Provides a precedent for voluntary, compensated conservation agreements.
 
-5. [USDA NRCS — New York Conservation Payment Schedules](https://www.nrcs.usda.gov/state-offices/new%20york/payment-schedule). Provides information about conservation payment rates and practices.
+5. [USDA NRCS - New York Conservation Payment Schedules](https://www.nrcs.usda.gov/state-offices/new%20york/payment-schedule). Provides information about conservation payment rates and practices.
 
-6. [Monroe County Soil and Water Conservation District — Great Lakes Sediment and Nutrient Reduction](https://www.monroecountyswcd.org/great-lakes-sediment-nutrient-reduction/). Documents local water-quality restoration projects.
+6. [Monroe County Soil and Water Conservation District - Great Lakes Sediment and Nutrient Reduction](https://www.monroecountyswcd.org/great-lakes-sediment-nutrient-reduction/). Documents local water-quality restoration projects.
 
-7. [Genesee RiverWatch — Edelweiss Farms Restoration Project](https://geneseeriverwatch.org/blog-2/page/14/). Describes a documented streambank restoration project along the Genesee River.
+7. [Genesee RiverWatch - Edelweiss Farms Restoration Project](https://geneseeriverwatch.org/blog-2/page/14/). Describes a documented streambank restoration project along the Genesee River.
 
-8. [New York State Department of Agriculture and Markets — Agricultural Nonpoint Source Abatement and Control Program](https://agriculture.ny.gov/node/5336). Describes existing public conservation funding.
+8. [New York State Department of Agriculture and Markets - Agricultural Nonpoint Source Abatement and Control Program](https://agriculture.ny.gov/node/5336). Describes existing public conservation funding.
 
-9. [Watershed Agricultural Council — Watershed Agricultural Program](https://nycwatershed.org/agriculture/program-overview/program/). Provides an example of agricultural conservation partnerships.
+9. [Watershed Agricultural Council - Watershed Agricultural Program](https://nycwatershed.org/agriculture/program-overview/program/). Provides an example of agricultural conservation partnerships.
 
-10. [U.S. Census Bureau — QuickFacts: Rochester, New York](https://www.census.gov/quickfacts/fact/table/rochestercitynewyork/AGE295223). Provides household demographic data for the revenue estimate.
+10. [U.S. Census Bureau - QuickFacts: Rochester, New York](https://www.census.gov/quickfacts/fact/table/rochestercitynewyork/AGE295223). Provides household demographic data for the revenue estimate.
 
-11. [USDA NRCS — New York RCPP-EQIP FY2023 Payment Rates](https://nrcs.usda.gov/sites/default/files/2022-11/New-York-RCPP-EQIP-23-payment-rates.pdf). Historical payment-rate benchmark used for the illustrative forest-buffer installation estimate.
+11. [USDA NRCS - New York RCPP-EQIP FY2023 Payment Rates](https://nrcs.usda.gov/sites/default/files/2022-11/New-York-RCPP-EQIP-23-payment-rates.pdf). Historical payment-rate benchmark used for the illustrative forest-buffer installation estimate.
 
 ---
 
@@ -116,6 +116,6 @@ These estimates exclude uncertainty about actual site conditions, participation,
 
 **Would you pay a small monthly fee to compensate farmers for protecting the Genesee River? Or is the money better spent elsewhere?**
 
-**[🌊 CAST YOUR ANONYMOUS VOTE](https://forms.gle/C7b8FWr8F1cMsWwM9)**
+**[ CAST YOUR ANONYMOUS VOTE](https://forms.gle/C7b8FWr8F1cMsWwM9)**
 
-*ECON 238 Environmental Economics — University of Rochester, Fall 2026*
+*ECON 238 Environmental Economics - University of Rochester, Fall 2026*
