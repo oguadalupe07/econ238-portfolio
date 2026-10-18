@@ -5,9 +5,11 @@
 
 *ECON 238 - Environmental Economics - Fall 2026*
 
-The Genesee River runs through Rochester, but some of the pollution affecting it originates on farmland farther upstream.
+The Genesee River runs right through Rochester, but some of the pollution in it comes from farms farther upstream. So here's a question I hadn't really considered before: what if we paid farmers to stop farming? Not entirely, obviously, but on certain strips of land near the river where planting trees and other vegetation could help prevent agricultural runoff.
 
-So...what if Rochester households paid farmers to stop cultivating selected strips of riverside land and replace them with vegetation that helps prevent pollution? Would you take that deal?
+The catch? Rochester residents would be paying for it.
+
+Would you take that deal?
 
 **This is a hypothetical ballot initiative created for an environmental economics course, not an ACTUAL and active City of Rochester ballot measure.**
 
@@ -30,24 +32,28 @@ Shall the City of Rochester establish a conservation program beginning January 2
 ---
 
 ## What's the Deal?
-The Genesee River runs right through Rochester, but not all the pollution in it actually comes from Rochester. Some of it starts farther upstream, where rain can wash soil and fertilizer off farms and into nearby waterways. One way to help prevent that is by planting trees, shrubs, and grasses along the river to catch some of that runoff before it reaches the water. Sounds simple enough, right? Except farmers would have to give up land they could otherwise be growing crops on, and I can't exactly expect them to do that for free.
-So here's the deal. Rochester households would pay $0.50 a month for three years to compensate willing farmers for protecting those areas for at least ten years. The money would go toward projects expected to prevent the most pollution for the cost. Farmers get compensated for lost income, and Rochester residents could get a cleaner river.
+The Genesee River runs through Rochester, but some of its pollution starts farther upstream, where rain washes soil and fertilizer off farmland and into nearby waterways. Planting vegetation along the river could help prevent some of that runoff. Sounds simple enough, except someone owns that land and probably uses it to make money. I can't exactly expect farmers to stop growing crops for free.
+
+So here's my proposal. Rochester households would pay 50 cents a month for three years to compensate willing farmers for protecting certain strips of land for at least ten years. The money would go toward places where the buffers are expected to prevent the most pollution for the cost. Farmers would get paid for giving up productive land, and Rochester could end up with a cleaner river. The question is whether that improvement is actually worth what everyone is giving up.
 
 ## Best Case for YES
 
-I think the best outcome would be a cleaner Genesee River without having to force farmers to give up their land or expecting them to do it for free. Farmers would get paid to stop growing crops on certain areas near the river and replace them with vegetation that helps prevent soil and fertilizer from washing into the water. And if we're going to spend almost $1.68 million, I'd rather that money go toward areas where it could actually make the biggest difference. The fee would only last three years, but the conservation agreements would last at least ten, meaning we could keep seeing benefits long after households stop paying. Ideally, both sides get something out of it. Farmers are compensated for the income they give up, and Rochester residents get a cleaner river. Nobody has to participate for free.
+The best outcome would be getting a cleaner Genesee River without forcing farmers to give up their land or expecting them to do it for free. Farmers would be compensated for replacing certain areas of farmland with trees and vegetation that help prevent runoff. And if Rochester is going to spend almost $1.68 million, I'd rather that money go toward the areas where it could actually make the biggest difference. The household fee would only last three years, but the conservation agreements would last at least ten. So theoretically, we'd keep receiving environmental benefits long after residents stopped paying. I also like that farmers wouldn't be forced into participating. They could decide whether the compensation was worth losing that land for farming. Ideally, both sides would benefit, and we'd be paying for something that otherwise might never happen.
 
 ## Best Case for NO
 
-My biggest problem is that we're asking Rochester residents to spend almost $1.68 million without knowing exactly what they'll get in return. Yes, planting trees and vegetation along rivers can reduce agricultural runoff. But does that mean the Genesee River will actually become noticeably cleaner? Not necessarily. It depends on where the buffers go, how much pollution they're stopping, and whether farmers even want to participate. There's also something a little strange about asking people in Rochester to pay farmers outside the city to stop using parts of their own land. Especially when programs that already pay farmers for conservation exist. Maybe that money could do more somewhere else. I care about the Genesee River, but caring about something doesn't automatically mean every proposed solution is worth paying for.
+My biggest issue with voting YES is that we're asking Rochester residents to spend almost $1.68 million without knowing exactly what they'll get in return. Yes, planting vegetation along rivers can reduce agricultural runoff. But does that mean the Genesee River will actually become noticeably cleaner? Not necessarily. What if we spend all this money protecting farmland and the river barely changes? There's also something strange about asking Rochester residents to pay farmers outside the city to stop using parts of their land, especially when conservation programs already exist. Maybe the money could do more somewhere else. I care about the Genesee River, but that doesn't automatically mean every proposal to protect it is worth paying for. Otherwise, I could justify spending practically anything on conservation just because I like the environmental goal.
 
 ## Where Is the Body Buried?
 
-My biggest problem with this proposal is that I don't know if spending $1.68 million would actually make enough of a difference in the Genesee River. I chose 150 acres as a starting point, but is that enough to make the river noticeably cleaner? I don't know. And would $150 per acre each year convince farmers to give up productive land? Even if they agreed, some locations might benefit more than others. We could spend all this money without seeing much improvement. That's before considering maintenance, monitoring, and whether Rochester can even legally charge residents to pay farmers outside city limits.
+My biggest problem is that I don't know whether $1.68 million would actually make enough of a difference. I chose 150 acres as a starting point, but is that enough to noticeably improve the river? I don't know. Would $150 per acre annually convince farmers to give up productive land? Also uncertain. Some locations might benefit far more than others, and maintenance could cost more than expected. We could spend all this money and barely notice a change downstream. And that's before asking whether Rochester could even legally charge residents to pay farmers outside city limits.
 
 ## Why Isn't This Already Happening?
 
-I think the main reason this isn't already happening is because the people giving something up aren't necessarily the ones benefiting. Farmers would lose income by giving up land they could grow crops on, while people downstream would benefit from less pollution. But why would farmers do that for free? And why would Rochester residents voluntarily pay if they could enjoy a cleaner river without contributing? That's the free-rider problem. Even if everyone agreed it was worth doing, someone would still have to find willing farmers, negotiate payments, and make sure they actually maintain the buffers. All of that costs time and money. Programs like this already exist, so it's not some revolutionary idea. But agricultural runoff is still a problem, and it's hard to convince people to spend more money when we can't even say exactly how much cleaner the river would become.
+I think the problem starts with the fact that the people giving something up aren't necessarily the ones benefiting. Farmers would lose income by giving up productive land, while people downstream would benefit from less pollution. But why would farmers do that for free? And why would Rochester residents voluntarily pay when they could enjoy a cleaner river without contributing? There's your free-rider problem.
+
+Then there's the issue of actually organizing this. Someone has to find willing farmers, negotiate payments, decide which land is worth protecting, and make sure the agreements are followed. None of that happens for free either. Conservation programs already exist, so it's not like I invented some revolutionary concept here. But agricultural runoff remains a problem. Apparently knowing how to reduce pollution and finding someone willing to pay for it are two very different things.
+
 
 ---
 
@@ -66,9 +72,11 @@ I think the main reason this isn't already happening is because the people givin
 The gross revenue estimate assumes approximately 93,261 paying Rochester households for 36 months:
 **93,261 × $0.50 × 36 = $1,678,698**
 
-I don't want the program to focus on protecting a certain number of acres just for the sake of reaching that number. I'd rather have the money go toward places where it would actually prevent the most pollution. According to an older USDA payment schedule, planting certain types of forested buffers costs around $3,801 per acre. So if we protected 150 acres, that would be about $570,150 just to establish them. But what about the farmers giving up that land? If we paid them $150 per acre each year, that would be another $225,000 over ten years.
+I don't want this program to focus on protecting exactly 150 acres just because I picked that number. What if protecting fewer acres in the right locations prevents more pollution? I'd rather have the money go where it could actually make the biggest difference.
 
-Of course, these are estimates. I don't know how many farmers would actually agree to participate, or whether $150 would even be enough to convince them. Some areas could also cost more to restore or maintain than others. And planting the buffers and compensating farmers aren't the only expenses. We'd still need money for maintenance, monitoring, administration, and anything unexpected. That's why I see 150 acres as a starting goal, not a promise. If the costs end up being higher than expected, we'd have to protect less land rather than spend money we don't have. Rochester would also need to set aside enough money to cover the full ten years before making any agreements with farmers.
+According to an older USDA payment schedule, establishing certain forested buffers costs around $3,801 per acre. So protecting 150 acres would cost about $570,150 just for planting. But then there's the question of what farmers are supposed to get for giving up that land. If we paid them $150 per acre each year, that would add another $225,000 over ten years.
+
+Of course, these are estimates. I have no idea whether $150 would actually convince enough farmers to participate. Some land could also be much more expensive to restore or maintain. We'd still need money for monitoring, administration, and anything unexpected. That's why 150 acres is a goal, not a promise. If the program costs more than expected, we'd have to protect less land rather than pretend we have unlimited money. And before signing ten-year agreements, Rochester would need to make sure it actually has enough funding to honor them.
 
 ---
 
