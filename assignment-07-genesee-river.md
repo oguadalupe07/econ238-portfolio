@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: "Genesee River Agricultural Conservation Partnership Initiative"
+Genesee River Agricultural Conservation Partnership Initiative
 ---
 
 #  Should We Pay Farmers to Stop Farming?
