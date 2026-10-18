@@ -7,15 +7,15 @@ Genesee River Agricultural Conservation Partnership Initiative
 
 ### A proposed environmental bargain for the Genesee River
 
-**ECON 238 - Environmental Economics | Fall 2026**
+*ECON 238 - Environmental Economics | Fall 2026*
 
 The Genesee River runs through Rochester, but some of the pollution affecting it originates on farmland farther upstream.
 
-What if Rochester households paid farmers to stop cultivating selected strips of riverside land and replace them with vegetation that helps prevent pollution?
+So...what if Rochester households paid farmers to stop cultivating selected strips of riverside land and replace them with vegetation that helps prevent pollution?
 
 Would you take that deal?
 
-**This is a hypothetical ballot initiative created for an environmental economics course, not an actual active City of Rochester ballot measure.**
+**This is a hypothetical ballot initiative created for an environmental economics course, not an actual REAL and active City of Rochester ballot measure.**
 
 ###  Cast Your Vote
 
