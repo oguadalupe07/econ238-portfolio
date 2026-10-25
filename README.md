@@ -3,3 +3,4 @@
 
 - [Assignment 1: When Did We Decide This Was Normal?](assignment-1.md)
 - [Assignment 7: Should We Pay Farmers to Stop Farming?](assignment-07-genesee-river.md)
+- [Assignment 8: Environmental Economics History - [The River We Inherited – Read & Listen](https://oliviaguadalupe.substack.com/p/the-river-we-inherited)
