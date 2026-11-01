@@ -18,7 +18,7 @@ I also wanted to see how other people would approach these decisions. It's easy 
 
 **[READ MY SUBSTACK ARTICLE](https://oliviaguadalupe.substack.com/p/protected-but-powerless)**
 
-My article examines several environmental justice issues, including housing rehabilitation eligibility, the unintended consequences of noise barriers, Indigenous trust land, and whether university land acknowledgments lead to meaningful change.
+My article examines several environmental justice issues, including housing rehabilitation eligibility, the unintended consequences of noise barriers, Massachusetts's environmental review requirements, Indigenous trust land, and whether university land acknowledgments lead to meaningful change.
 
 The common question throughout is whether protecting people is enough if they have little influence over the decisions affecting them.
 
