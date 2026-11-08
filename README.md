@@ -5,3 +5,4 @@
 - [Assignment 7: Should We Pay Farmers to Stop Farming?](assignment-07-genesee-river.md)
 - [Assignment 8: The River We Inherited](https://oliviaguadalupe.substack.com/p/the-river-we-inherited)
 - [Assignment 9: Protected, But Powerless?](protected-but-powerless.md)
+- [Assignment 10: The Garbage Plate Mandate](garbage-plate-mandate.html)   
